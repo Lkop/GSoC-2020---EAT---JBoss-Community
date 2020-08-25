@@ -78,3 +78,6 @@ Here are the URLs of the project:
 - [CI](https://github.com/EAT-JBCOMMUNITY/EAT/tree/master/CI)
 
 The documentation can be found in the README<span></span>.md file inside CI's folder.
+
+*HOW TO BE USED*
+The CI scripts could be used from the users in order to test their commits with EAT or inside containers on servers in order form an EAT - CI architecture.
