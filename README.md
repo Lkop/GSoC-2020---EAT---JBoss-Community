@@ -54,7 +54,7 @@ Also, during this phase, I documented the 4th structure ([DependencyTreeParser](
 
 #### Phase 2
 
-During this phase, I started developing a basic CI scripts in bash that sends the results to Github.
+During this phase, I started developing a basic CI script in bash that sends the results to Github.
 
 *Commits*
 - [Creating a CI (script) tool](https://github.com/EAT-JBCOMMUNITY/EAT/pull/30)
